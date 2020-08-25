@@ -1,4 +1,4 @@
-### About Me
+# About Me
 <img src="http://qmpy.org/badges/build_passing.svg"> <img src="https://img.shields.io/github/followers/kenokrieger?style=social">
 <!--
 **kenokrieger/kenokrieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
