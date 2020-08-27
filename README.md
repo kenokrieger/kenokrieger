@@ -1,4 +1,4 @@
-<img src="http://qmpy.org/badges/build_passing.svg"> <img src="https://img.shields.io/github/followers/kenokrieger?style=social">
+<img src="http://qmpy.org/memes/sanity.svg"> <img src="https://img.shields.io/github/followers/kenokrieger?style=social">
 
 <img src="http://qmpy.org/memes/main.jpg">
 <!--
