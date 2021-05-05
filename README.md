@@ -1,6 +1,5 @@
 <img src="http://qmpy.org/memes/sanity.svg"> <img src="https://img.shields.io/github/followers/kenokrieger?style=social">
 
-<img src="https://memegenerator.net/img/instances/78386854/i-coded-in-python-once.jpg">
 <img src="https://breakbrunch.com/wp-content/uploads/2019/11/python-error-message-vs-c-110519.jpg">
 <!--
 **kenokrieger/kenokrieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
